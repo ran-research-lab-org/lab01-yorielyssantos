@@ -12,3 +12,9 @@ int main() {
             << sum << std::endl;
   return 0;
 }
+
+
+//// Falta nombre del programador (-1 pt)
+//// 9/10
+
+//// Nota: El file "add.cpp" no fue sometido. (0/10)
